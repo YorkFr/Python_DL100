@@ -6,9 +6,9 @@
 </br>
 </br>
 
-<a href="https://mp.weixin.qq.com/s/rnFa-IeY93EpjVu0yzzjkw"><img src="https://github.com/kzbkzb/Python-AI/assets/33121095/0b8f30ba-5358-46c4-8d6e-58513d12fc39" alt="365深度学习训练营"></a>
+<a href="https://mp.weixin.qq.com/s/o-DaK6aQQLkJ8uE4YX1p3Q?click_id=16"><img src="https://github.com/kzbkzb/Python-AI/assets/33121095/0b8f30ba-5358-46c4-8d6e-58513d12fc39" alt="365深度学习训练营"></a>
 
-[【👉 训练营介绍】](https://mp.weixin.qq.com/s/rnFa-IeY93EpjVu0yzzjkw)~
+[【👉 训练营介绍】](https://mp.weixin.qq.com/s/o-DaK6aQQLkJ8uE4YX1p3Q?click_id=16)~
 
 
 <p align="center">
